@@ -1,0 +1,39 @@
+*{
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+nav {
+  background-color: #495da2;
+  height: 200px;
+}
+
+img {
+  height: 180px;
+  padding-top: 20px;
+}
+
+#term{
+  width: 50%;
+  height: 35px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  border-radius: 0;
+  margin-bottom: 20px;
+}
+
+#results {
+  width: 50%;
+  margin: 0 auto;
+  height: 150px;
+}
+
+.box {
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid #495da2;
+  color: #495da2;
+  float: left;
+}
